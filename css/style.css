@@ -54,9 +54,11 @@ section {
 .box p {
   font-size: 1.6rem;
   gap: 2;
+  text-align: justify;
 }
 
 .box h1 {
+  margin-top: 1rem;
   font-size: 2.4rem;
   gap: 2;
   color: var(--main-color);
