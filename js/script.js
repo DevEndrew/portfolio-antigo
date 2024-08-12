@@ -52,7 +52,7 @@ ScrollReveal().reveal(".home-content p, .about-content, .box", {
 });
 
 const typed = new Typed(".multiple-text", {
-  strings: ["Fullstack Developer", "Designer Gráfico"],
+  strings: ["Front End Developer", "Designer Gráfico"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
