@@ -55,3 +55,20 @@ a:hover {
     min-height: auto;
   }
 }
+
+/* BARRA DE REOLAGEM */
+
+::-webkit-scrollbar {
+  width: 8px; /* Largura da barra de rolagem */
+}
+
+/* Parte da barra de rolagem que desliza */
+::-webkit-scrollbar-thumb {
+  background-color: #4356b2; /* Cor do "thumb" da barra de rolagem */
+  border-radius: 6px; /* Arredondar os cantos do thumb */
+}
+
+/* Parte da barra de rolagem sem interação */
+::-webkit-scrollbar-track {
+  background-color: #121214; /* Cor do fundo da barra de rolagem */
+}
